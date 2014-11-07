@@ -5,7 +5,7 @@
  * APPLICATION ENVIRONMENT
  *---------------------------------------------------------------
  *
- * You can load different configurations depending on your
+ * Yogu can load different configurations depending on your
  * current environment. Setting the environment also influences
  * things like logging and error reporting.
  *
